@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ipldashboard/static/css/main.67ad3302.css",
-    "main.js": "/ipldashboard/static/js/main.cff394fc.js",
+    "main.js": "/ipldashboard/static/js/main.6c446bea.js",
     "static/js/453.bb2e59a0.chunk.js": "/ipldashboard/static/js/453.bb2e59a0.chunk.js",
     "index.html": "/ipldashboard/index.html",
     "main.67ad3302.css.map": "/ipldashboard/static/css/main.67ad3302.css.map",
-    "main.cff394fc.js.map": "/ipldashboard/static/js/main.cff394fc.js.map",
+    "main.6c446bea.js.map": "/ipldashboard/static/js/main.6c446bea.js.map",
     "453.bb2e59a0.chunk.js.map": "/ipldashboard/static/js/453.bb2e59a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67ad3302.css",
-    "static/js/main.cff394fc.js"
+    "static/js/main.6c446bea.js"
   ]
 }
